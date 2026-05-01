@@ -42,7 +42,7 @@
 - [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) – Associative analytics and BI platform.
 - [Apache Superset](https://superset.apache.org/) – Open-source data exploration and visualization platform.
 - [Metabase](https://www.metabase.com/) – Open-source analytics and dashboards for teams.
-- [AI for Database](https://aifordatabase.com/) – Agentic AI platform to connect any database and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
+- [AI for Database](https://aifordatabase.com) – AI-powered natural language interface for databases: query in plain English, build self-refreshing dashboards, and automate data workflows.
 
 ## Data Warehousing & OLAP
 
