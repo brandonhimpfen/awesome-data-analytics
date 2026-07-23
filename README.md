@@ -85,6 +85,7 @@
 - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) – Enterprise web analytics solution.
 - [Matomo](https://matomo.org/) – Privacy-focused open-source web analytics platform.
 - [Hotjar](https://www.hotjar.com/) – User behavior analytics via heatmaps and recordings.
+- [Apstal](https://apstal.com) – AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
 
 ## Visualization Libraries
 
