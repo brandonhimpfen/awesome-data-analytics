@@ -69,6 +69,7 @@
 - [Meltano](https://meltano.com/) – Open-source ELT platform for analytics pipelines.
 - [Apache NiFi](https://nifi.apache.org/) – Visual tool for data flow and transformation.
 - [SQLMesh](https://sqlmesh.com/) – Versioned and testable SQL-based data transformations.
+- [Bruin](https://getbruin.com/) – Open-source CLI for data ingestion, SQL/Python transformations, and data quality checks.
 
 ## Product & Behavioral Analytics
 
