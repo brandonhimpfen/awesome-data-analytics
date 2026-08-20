@@ -1,4 +1,4 @@
-# Awesome Data Analytics [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Data Analytics [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -63,13 +63,13 @@
 
 ## Data Transformation & Modeling
 
-- [dbt](https://www.getdbt.com/) – Analytics engineering tool for transforming data in warehouses.
 - [Apache Airflow](https://airflow.apache.org/) – Workflow orchestration platform for analytics pipelines.
+- [Apache NiFi](https://nifi.apache.org/) – Visual tool for data flow and transformation.
+- [Bruin](https://getbruin.com/) – Open-source CLI for data ingestion, SQL/Python transformations, and data quality checks.
+- [dbt](https://www.getdbt.com/) – Analytics engineering tool for transforming data in warehouses.
 - [Dagster](https://dagster.io/) – Data orchestration platform focused on observability and testing.
 - [Meltano](https://meltano.com/) – Open-source ELT platform for analytics pipelines.
-- [Apache NiFi](https://nifi.apache.org/) – Visual tool for data flow and transformation.
 - [SQLMesh](https://sqlmesh.com/) – Versioned and testable SQL-based data transformations.
-- [Bruin](https://getbruin.com/) – Open-source CLI for data ingestion, SQL/Python transformations, and data quality checks.
 
 ## Product & Behavioral Analytics
 
@@ -103,6 +103,7 @@
 - [Apache Spark Streaming](https://spark.apache.org/streaming/) – Real-time data processing on Spark.
 - [ksqlDB](https://ksqldb.io/) – Streaming SQL engine for Kafka data.
 - [Materialize](https://materialize.com/) – Streaming database for real-time analytics.
+
 ## Analytics Engineering
 
 - [Analytics Engineering](https://www.getdbt.com/what-is-analytics-engineering/) – Emerging discipline combining analytics and engineering.
