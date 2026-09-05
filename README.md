@@ -147,11 +147,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome Data Science](https://github.com/awesomelistsio/awesome-data-science)
-- [Awesome SQL](https://github.com/awesomelistsio/awesome-sql)
-- [Awesome Big Data](https://github.com/awesomelistsio/awesome-big-data)
-- [Awesome Business Intelligence](https://github.com/awesomelistsio/awesome-business-intelligence)
-- [Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops)
+- [Awesome Data Science](https://github.com/brandonhimpfen/awesome-data-science)
+- [Awesome SQL](https://github.com/brandonhimpfen/awesome-sql)
+- [Awesome Big Data](https://github.com/brandonhimpfen/awesome-big-data)
+- [Awesome Business Intelligence](https://github.com/brandonhimpfen/awesome-business-intelligence)
+- [Awesome MLOps](https://github.com/brandonhimpfen/awesome-mlops)
 
 ## Contribute
 
