@@ -139,6 +139,7 @@
 ### Guides
 - [Designing Analytics Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) – Foundational concepts for analytics architectures.
 - [Modern Data Stack](https://www.getdbt.com/what-is-the-modern-data-stack/) – Overview of modern analytics tooling.
+- [Open Source Analytics](https://opensource-analytics.com/) – Editorial guides comparing privacy-friendly, self-hosted, and open-source web analytics.
 - [Product Analytics Guide](https://amplitude.com/learn) – Practical analytics guidance for product teams.
 
 ### Courses
